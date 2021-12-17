@@ -22,3 +22,10 @@
 | 18. | [Research internship @ IITB](https://www.iitb.ac.in/en/education/research-internship/) | IITB | Keep checking | Keep checking | Keep checking | Try to apply |
 | 19. | [IISER Kolkata Summer Student Research Programme](https://www.iiserkol.ac.in/~summer.research/) | IISERK | Keep checking | 6th May | Keep checking | Try to apply |
 | 20. | [Internship @ CMI](https://www.cmi.ac.in/admissions/internships.php/) | CMI | - Typically, CMI does not offer internships to students before the end of their second year of college/university. | Keep checking | Keep checking | Try to apply |
+| 21. | [IUSSTF S.N Bose Scholars Program](https://www.iusstf.org/program/sn-bose-scholars-program/) | Keep checking | Keep checking | Keep checking | Keep checking | Try to apply |
+| 22. | [IUSSTF Khorana Program for Scholars](https://www.iusstf.org/program/khorana-program-for-scholars/) | Keep checking | Keep checking | Keep checking | Keep checking | Try to apply |
+
+
+# Scholarships
+1. [CHARPAK LAB SCHOLARSHIP](https://www.inde.campusfrance.org/charpak-lab-scholarship)
+2. [DAAD Wise Scholarship](https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=50015295)
