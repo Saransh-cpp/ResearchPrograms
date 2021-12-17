@@ -1,6 +1,6 @@
 # ResearchPrograms
 
-| Serial Number | Name | Institute | Eligibility | Deadline | Extra | Applying status |
+| Serial Number | Name | Institute | Eligibility | Deadline | Documents | Applying status |
 | ------------- |----- | --------- | ----------- | -------- | ----- | --------------- |
 | 1. | [Summer Student Research Fellowship](https://inf.ethz.ch/studies/summer-research-fellowship.html) | ETH Zurich | - Your expected graduation date in your current study programme (bachelor or master) is in the year following the fellowship or later. </br> - You will have completed two years of study by start of the programme (master students naturally satisfy this condition). | 15th December | - Does not require LOR. </br> - Requires official academic transcript, Letter of Motivation and CV. | Applied |
 | 2. | [Santa Fe Institute Summer Research Experience](https://www.santafe.edu/engage/learn/programs/undergraduate-complexity-research) | Santa Fe Institute, New Mexico | - College seniors graduating before December 2022 are not eligible. | 11th January | - Requires one LOR. </br> - Requires official academic transcript, Research statement and CV. | Try to apply |
