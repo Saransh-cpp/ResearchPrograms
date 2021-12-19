@@ -24,6 +24,7 @@
 | 20. | [Internship @ CMI](https://www.cmi.ac.in/admissions/internships.php/) | CMI | - Typically, CMI does not offer internships to students before the end of their second year of college/university. | Keep checking | Keep checking | Try to apply |
 | 21. | [IUSSTF S.N Bose Scholars Program](https://www.iusstf.org/program/sn-bose-scholars-program/) | Keep checking | Keep checking | Keep checking | Keep checking | Try to apply |
 | 22. | [IUSSTF Khorana Program for Scholars](https://www.iusstf.org/program/khorana-program-for-scholars/) | Keep checking | Keep checking | Keep checking | Keep checking | Try to apply |
+| 23. | [E4C Fellowship Summer](https://www.engineeringforchange.org/e4c-fellowship-summer-2022-apply/) | Keep checking | - Senior undergraduate, graduate and post-graduates in engineering/architecture | 31st January | - 2 – 3 references. You must be recommended by a representative of the University in which you are currently enrolled (ex. Program Manager, Lab Head, PI, etc.) and/or current Managers at the companies of current or past employment. </br> - 1-2 page letter of interest. </br> - ~ 200 words writing sample in English, CV. </br> - Letters of recommendation are optional but recommended. | Try to apply |
 
 
 # Scholarships
