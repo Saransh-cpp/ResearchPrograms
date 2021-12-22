@@ -28,6 +28,9 @@
 | 24. | [International Visiting Internship Student Program](https://pg.ust.hk/prospective-students/programs/short-term-study/international-visiting-internship-student-program/) | The Hong Kong University of Science and Technology | Senior year | Varies for different terms | Keep checking | Apply in the final year |
 | 25. | [Summer @ CUHK](https://www.summer.cuhk.edu.hk/surp/) | The Chinese University of Hong Kong | Senior year | 21st February | - **PARTIALLY PAID** </br> - Letter of recommendation from an academic staff. </br> - Copy of the identification/particulars page of the applicant’s passport and academic transcripts. | Apply in the final year |
 | 26. | [Princeton internships](https://undergraduateresearch.princeton.edu/programs/summer-programs?field_princeton_status_eligibili_value=Non-Princeton+undergrads&field_class_year_eligibility_value=All&field_division_value=Engineering/) | Princeton University | Different for different internships | Different for different internships | Different for different internships | Different for different internships |
+| 27. | [Kupcinet-Getz International Summer School](https://www.weizmann.ac.il/feinberg/admissions/kupcinet-getz-international-summer-school/about-program-0/) | Weizmann Institute of Science | - You are currently in the next to final year of your studies </br> - Have a grade point average of 3.6/4.0 or the equivalent in the grades | Keep checking | - Copy of the title page of your passport </br> - Requires official academic transcript, Research statement and CV. | Apply next year |
+| 28. | [ITRI Global Internship Program](https://www.itri.org.tw/english/ListStyle.aspx?DisplayStyle=05&SiteID=1&MmmID=617731531432246346/) | Industrial Technology Research Institute | NA | Keep checking | Keep checking | Try to apply |
+
 
 
 
