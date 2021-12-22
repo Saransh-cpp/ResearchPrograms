@@ -27,6 +27,7 @@
 | 23. | [Chemers Neustein Summer Undergraduate Research Fellowship Program](https://www.rockefeller.edu/education-and-training/surf/) | The Rockefeller University | - sophomores and juniors | 1st February | - Two letters of recommendation preferably from professors or mentors who can evaluate the applicant based on performance in current or completed research projects. </br> - Two-page summary statement and academic transcripts | Apply next year |
 | 24. | [International Visiting Internship Student Program](https://pg.ust.hk/prospective-students/programs/short-term-study/international-visiting-internship-student-program/) | The Hong Kong University of Science and Technology | Senior year | Varies for different terms | Keep checking | Apply in the final year |
 | 25. | [Summer @ CUHK](https://www.summer.cuhk.edu.hk/surp/) | The Chinese University of Hong Kong | Senior year | 21st February | - **PARTIALLY PAID** </br> - Letter of recommendation from an academic staff. </br> - Copy of the identification/particulars page of the applicant’s passport and academic transcripts. | Apply in the final year |
+| 26. | [Princeton internships](https://undergraduateresearch.princeton.edu/programs/summer-programs?field_princeton_status_eligibili_value=Non-Princeton+undergrads&field_class_year_eligibility_value=All&field_division_value=Engineering/) | Princeton University | Different for different internships | Different for different internships | Different for different internships | Different for different internships |
 
 
 
