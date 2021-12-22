@@ -24,6 +24,7 @@
 | 20. | [IUSSTF S.N Bose Scholars Program](https://www.iusstf.org/program/sn-bose-scholars-program/) | Keep checking | Keep checking | Keep checking | Keep checking | Try to apply |
 | 21. | [IUSSTF Khorana Program for Scholars](https://www.iusstf.org/program/khorana-program-for-scholars/) | Keep checking | Keep checking | Keep checking | Keep checking | Try to apply |
 | 22. | [E4C Fellowship Summer](https://www.engineeringforchange.org/e4c-fellowship-summer-2022-apply/) | Keep checking | - Senior undergraduate, graduate and post-graduates in engineering/architecture | 31st January | - 2 – 3 references. You must be recommended by a representative of the University in which you are currently enrolled (ex. Program Manager, Lab Head, PI, etc.) and/or current Managers at the companies of current or past employment. </br> - 1-2 page letter of interest. </br> - ~ 200 words writing sample in English, CV. </br> - Letters of recommendation are optional but recommended. | Try to apply |
+| 22. | [Chemers Neustein Summer Undergraduate Research Fellowship Program](https://www.rockefeller.edu/education-and-training/surf/) | The Rockefeller University | - sophomores and juniors | 1st February | - Two letters of recommendation preferably from professors or mentors who can evaluate the applicant based on performance in current or completed research projects. </br> - Two-page summary statement and academic transcripts | Apply next year |
 
 
 # Scholarships
