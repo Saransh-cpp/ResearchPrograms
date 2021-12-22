@@ -30,9 +30,9 @@
 | 26. | [Princeton internships](https://undergraduateresearch.princeton.edu/programs/summer-programs?field_princeton_status_eligibili_value=Non-Princeton+undergrads&field_class_year_eligibility_value=All&field_division_value=Engineering/) | Princeton University | Different for different internships | Different for different internships | Different for different internships | Different for different internships |
 | 27. | [Kupcinet-Getz International Summer School](https://www.weizmann.ac.il/feinberg/admissions/kupcinet-getz-international-summer-school/about-program-0/) | Weizmann Institute of Science | - You are currently in the next to final year of your studies </br> - Have a grade point average of 3.6/4.0 or the equivalent in the grades | Keep checking | - Copy of the title page of your passport </br> - Requires official academic transcript, Research statement and CV. | Apply next year |
 | 28. | [ITRI Global Internship Program](https://www.itri.org.tw/english/ListStyle.aspx?DisplayStyle=05&SiteID=1&MmmID=617731531432246346/) | Industrial Technology Research Institute | NA | Keep checking | Keep checking | Try to apply |
-
-
-
+| 29. | [NIMS Internship Program](https://www.nims.go.jp/eng/hr-development/internship.html/) | NIMS, Japan | NA | Keep checking | - **"And please contact the NIMS researcher DIRECTLY and send the documents listed below to him/her by E-mail."** </br> - Student enrollment/registration certificate </br> - Requires official academic transcript, Research statement and CV. | Apply next year |
+| 30. | [EPFL](https://www.nims.go.jp/eng/hr-development/internship.html/) | EPFL | - To be eligible you must have completed at least your first two years of Bachelor at the time of the application | Keep checking | Keep checking | Missed, apply next year |
+| 31. | [Visiting Student Research Program](https://vsrp.kaust.edu.sa/) | KAUST (Saudi) | - 3rd Year and above Baccalaureate or Masters Students </br> - GPA 3.5/4 | Keep checking | - Valid passport and Letter of Recommendation. </br> - Requires official academic transcript, Research statement and CV. | Apply next year |
 
 # Scholarships
 1. [CHARPAK LAB SCHOLARSHIP](https://www.inde.campusfrance.org/charpak-lab-scholarship)
