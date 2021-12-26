@@ -33,6 +33,8 @@
 | 29. | [NIMS Internship Program](https://www.nims.go.jp/eng/hr-development/internship.html/) | NIMS, Japan | NA | Keep checking | - **"And please contact the NIMS researcher DIRECTLY and send the documents listed below to him/her by E-mail."** </br> - Student enrollment/registration certificate </br> - Requires official academic transcript, Research statement and CV. | Apply next year |
 | 30. | [EPFL](https://www.nims.go.jp/eng/hr-development/internship.html/) | EPFL | - To be eligible you must have completed at least your first two years of Bachelor at the time of the application | Keep checking | Keep checking | Missed, apply next year |
 | 31. | [Visiting Student Research Program](https://vsrp.kaust.edu.sa/) | KAUST (Saudi) | - 3rd Year and above Baccalaureate or Masters Students </br> - GPA 3.5/4 | Keep checking | - Valid passport and Letter of Recommendation. </br> - Requires official academic transcript, Research statement and CV. | Apply next year |
+| 32. | [IIITD Alive](https://sites.google.com/iiitd.ac.in/iiitd-alive/) | IIIT Delhi | Keep checking | Positions open in November | - CV | Applied |
+| 33. | [IIITD Midas](https://midas.iiitd.edu.in/openings/) | IIIT Delhi | Keep checking | Positions open in March | Keep checking | Try to apply |
 
 # Scholarships
 1. [CHARPAK LAB SCHOLARSHIP](https://www.inde.campusfrance.org/charpak-lab-scholarship)
