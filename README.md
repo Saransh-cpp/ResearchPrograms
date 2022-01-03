@@ -35,6 +35,7 @@
 | 31. | [Visiting Student Research Program](https://vsrp.kaust.edu.sa/) | KAUST (Saudi) | - 3rd Year and above Baccalaureate or Masters Students </br> - GPA 3.5/4 | Keep checking | - Valid passport and Letter of Recommendation. </br> - Requires official academic transcript, Research statement and CV. | Apply next year |
 | 32. | [IIITD Alive](https://sites.google.com/iiitd.ac.in/iiitd-alive/) | IIIT Delhi | Keep checking | Positions open in November | - CV | Applied |
 | 33. | [IIITD Midas](https://midas.iiitd.edu.in/openings/) | IIIT Delhi | Keep checking | Positions open in March | Keep checking | Try to apply |
+| 33. | [Research Fellows Program](https://www.microsoft.com/en-us/research/academic-program/research-fellows-program-at-microsoft-research-india/) | Microsoft Research India | - Be in the final year | 14th January | - Resume and at least one letter of recommendation | Apply in the final year |
 
 # Scholarships
 1. [CHARPAK LAB SCHOLARSHIP](https://www.inde.campusfrance.org/charpak-lab-scholarship)
