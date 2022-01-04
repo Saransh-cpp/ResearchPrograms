@@ -41,8 +41,10 @@
 | Serial Number | Name | Language/Framework | Proposal deadline | Applying status |
 | ------------- |----- | ------------------ | ----------------- | --------------- |
 | 1. | [PyConDE](https://2022.pycon.de/) | Python | 16th January | Applied |
-| 1. | [Kiwi PyCon](https://python.nz/) | Python | 30th November | Missed |
-| N. | [All python conferences](https://www.python.org/community/workshops/) | Python | NA | NA |
+| 2. | [Kiwi PyCon](https://python.nz/) | Python | 30th November | Missed |
+| 3. | [PyCon Italia](https://pycon.it/en/) | Python | 9th January | Applied |
+| 4. | [PythonFOSDEM](https://python-fosdem.org/) | Python | 21st December | Missed |
+| N. | [All python conferences](https://www.python.org/community/workshops/) | Python | Keep checking | Try to apply |
 
 # Scholarships
 1. [CHARPAK LAB SCHOLARSHIP](https://www.inde.campusfrance.org/charpak-lab-scholarship)
