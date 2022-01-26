@@ -37,6 +37,7 @@
 | 33. | [IIITD Midas](https://midas.iiitd.edu.in/openings/) | IIIT Delhi | Keep checking | Positions open in March | Keep checking | Try to apply |
 | 33. | [Research Fellows Program](https://www.microsoft.com/en-us/research/academic-program/research-fellows-program-at-microsoft-research-india/) | Microsoft Research India | - Be in the final year | 14th January | - Resume and at least one letter of recommendation | Apply in the final year |
 | 33. | [Summer Geometry Initiative](http://sgi.mit.edu/) | MIT | NA | 15th February | - Resume and  cover letter </br> - One reference letter (optional) and academic transcripts | Try to apply |
+| 34. | [Research in Industrial Projects for Students (RIPS)](https://www.ipam.ucla.edu/programs/student-research-programs/research-in-industrial-projects-for-students-rips-2022/) | UCLA | NA | 14th February | - CV </br> - Two reference letter and academic transcripts | Try to apply |
 
 # Conferences
 | Serial Number | Name | Language/Framework | Proposal deadline | Applying status |
