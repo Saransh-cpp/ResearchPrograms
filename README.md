@@ -64,6 +64,9 @@
 | 20. | [PyCon China](https://cn.pycon.org/2021/) | Python | Start looking from July | Try to apply |
 | 21. | [PyCon ID](https://pycon.id/) | Python | Start looking from September | Try to apply |
 | 22. | [PyCon HK](https://pycon.hk/) | Python | Start looking from July | Try to apply |
+| 23. | [PyCon Portugal](https://2022.pycon.pt/) | Python | Keep checking | Try to apply |
+| 24. | [PyCon JP](https://2021.pycon.jp/en) | Python | Start looking from July | Missed |
+| 25. | [PyCon Korea](https://2021.pycon.kr/) | Python | Start looking from July | Try to apply |
 | N. | [All python conferences](https://www.python.org/community/workshops/) | Python | Keep checking | Try to apply |
 
 # Scholarships
