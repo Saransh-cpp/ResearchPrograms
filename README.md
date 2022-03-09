@@ -51,14 +51,19 @@
 | 7. | [PyTexas](https://www.pytexas.org/) | Python | Start looking from January | Apply next year |
 | 8. | [PyTennessee](https://2021.pytennessee.org/) | Python | Keep looking | Try to apply |
 | 9. | [PyOhio](https://www.pyohio.org/2022/) | Python | Mid April | Try to apply |
-| 10. | [PyCon APAC](https://pycon.my/) | Python | Start looking from July | Try to apply |
+| 10. | [PyCon Malaysia](https://pycon.my/) | Python | Start looking from July | Try to apply |
 | 11. | [PyCascades](https://2022.pycascades.com/) | Python | Start looking from November | Missed |
 | 12. | [PyGrunn](https://pygrunn.org/) | Python | Start looking from August | Try to apply |
 | 13. | [PyBay](https://pybay.com/) | Python | Start looking from August | Try to apply |
 | 14. | [PyCon Sweden](http://www.pycon.se/#/) | Python | Start looking from August | Try to apply |
 | 15. | [PyCon Spain](https://2022.es.pycon.org/) | Python | Start looking from July | Try to apply |
-| 16. | [PyGrunn](https://pygrunn.org/) | Python | Start looking from August | Try to apply |
-| 17. | [PyBay](https://pybay.com/) | Python | Start looking from August | Try to apply |
+| 16. | [PyCon Taiwan](https://tw.pycon.org/2022/en-us/) | Python | 15th April | Try to apply |
+| 17. | [PyCon SK](https://2022.pycon.sk/en/) | Python | 30th June | Try to apply |
+| 18. | [PyCon US](https://us.pycon.org/2022/) | Python | Start looking from December | Missed |
+| 19. | [EuroPython](https://ep2022.europython.eu/) | Python | 23rd May | Try to apply |
+| 20. | [PyCon China](https://cn.pycon.org/2021/) | Python | Start looking from July | Try to apply |
+| 21. | [PyCon ID](https://pycon.id/) | Python | Start looking from September | Try to apply |
+| 22. | [PyCon HK](https://pycon.hk/) | Python | Start looking from July | Try to apply |
 | N. | [All python conferences](https://www.python.org/community/workshops/) | Python | Keep checking | Try to apply |
 
 # Scholarships
