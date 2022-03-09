@@ -43,10 +43,22 @@
 # Conferences
 | Serial Number | Name | Language/Framework | Proposal deadline | Applying status |
 | ------------- |----- | ------------------ | ----------------- | --------------- |
-| 1. | [PyConDE](https://2022.pycon.de/) | Python | 16th January | Applied |
+| 1. | [PyConDE](https://2022.pycon.de/) | Python | 16th January | - Applied <br> - Rejected |
 | 2. | [Kiwi PyCon](https://python.nz/) | Python | 30th November | Missed |
-| 3. | [PyCon Italia](https://pycon.it/en/) | Python | 9th January | Applied |
+| 3. | [PyCon Italia](https://pycon.it/en/) | Python | 9th January | - Applied <br> - Accepted |
 | 4. | [PythonFOSDEM](https://python-fosdem.org/) | Python | 21st December | Missed |
+| 6. | [PyGotham](https://2021.pygotham.tv/) | Python | Start looking from August | Apply next year |
+| 7. | [PyTexas](https://www.pytexas.org/) | Python | Start looking from January | Apply next year |
+| 8. | [PyTennessee](https://2021.pytennessee.org/) | Python | Keep looking | Try to apply |
+| 9. | [PyOhio](https://www.pyohio.org/2022/) | Python | Mid April | Try to apply |
+| 10. | [PyCon APAC](https://pycon.my/) | Python | Start looking from July | Try to apply |
+| 11. | [PyCascades](https://2022.pycascades.com/) | Python | Start looking from November | Missed |
+| 12. | [PyGrunn](https://pygrunn.org/) | Python | Start looking from August | Try to apply |
+| 13. | [PyBay](https://pybay.com/) | Python | Start looking from August | Try to apply |
+| 14. | [PyCon Sweden](http://www.pycon.se/#/) | Python | Start looking from August | Try to apply |
+| 15. | [PyCon Spain](https://2022.es.pycon.org/) | Python | Start looking from July | Try to apply |
+| 16. | [PyGrunn](https://pygrunn.org/) | Python | Start looking from August | Try to apply |
+| 17. | [PyBay](https://pybay.com/) | Python | Start looking from August | Try to apply |
 | N. | [All python conferences](https://www.python.org/community/workshops/) | Python | Keep checking | Try to apply |
 
 # Scholarships
