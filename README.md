@@ -58,7 +58,7 @@
 | 14. | [PyCon Sweden](http://www.pycon.se/#/) | Python | Start looking from August | Try to apply |
 | 15. | [PyCon Spain](https://2022.es.pycon.org/) | Python | Start looking from July | Try to apply |
 | 16. | [PyCon Taiwan](https://tw.pycon.org/2022/en-us/) | Python | 15th April | Try to apply |
-| 17. | [PyCon SK](https://2022.pycon.sk/en/) | Python | 30th June | Try to apply |
+| 17. | [PyCon SK](https://2022.pycon.sk/en/) | Python | 30th June | Applied |
 | 18. | [PyCon US](https://us.pycon.org/2022/) | Python | Start looking from December | Missed |
 | 19. | [EuroPython](https://ep2022.europython.eu/) | Python | 23rd May | Applied |
 | 20. | [PyCon China](https://cn.pycon.org/2021/) | Python | Start looking from July | Try to apply |
