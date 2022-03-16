@@ -15,9 +15,9 @@
 | 11. | [IBM Summer Internship Program](https://researcher.watson.ibm.com/researcher/view_group_subpage.php?id=8101/) | IBM India | NA | 25th December | - Requires CV. (One can also reach out for referrals) | Applied |
 | 12. | [SPARK @ IITR](https://spark.iitr.ac.in/) | IITR | - CGPA > 8.5 </br> - Students who would have done two semesters before summer 2022 and have atleast a semester remaining after summer 2022 are ONLY eligible. | Keep checking | - Last semester marksheet of current degree, photograph, a 500-word research statement, and a brief 1-2 page resume. </br> - For students of other institutes, No Objection Certificate (NOC) will also be sought on joining. | Applied |
 | 13. | [IIT Ropar Summer Internship](https://onlineportal.iitrpr.ac.in/sia-21/) | IIT Ropar | Keep checking | 16th April | Keep checking | APPLY BEFORE THE DEADLINE |
-| 14. | [SRIP @ IITGN](https://srip.iitgn.ac.in/info/) | IIT Gandhinagar | - Students in first, second and third year of UG studies are encouraged to apply. | 26th April | Keep checking | APPLY BEFORE THE DEADLINE |
+| 14. | [SRIP @ IITGN](https://srip.iitgn.ac.in/info/) | IIT Gandhinagar | - Students in first, second and third year of UG studies are encouraged to apply. | 26th April | Keep checking | Applied |
 | 15. | [SURGE @ IITK](http://surge.iitk.ac.in/) | IITK | - 3rd year completed at the time of starting of internship. | 26th April | - Requires two LORs </br> - Requires official academic transcript, Research Proposal, and CV. | Apply next year |
-| 16. | [SFP @ IITM](https://sfp.iitm.ac.in/) | IITM | Keep checking | Keep checking | Keep checking | Try to apply |
+| 16. | [SFP @ IITM](https://sfp.iitm.ac.in/) | IITM | Keep checking | Keep checking | Keep checking | Apply next year |
 | 17. | [Research internship @ IITB](https://www.iitb.ac.in/en/education/research-internship/) | IITB | Keep checking | Keep checking | Keep checking | Try to apply |
 | 18. | [IISER Kolkata Summer Student Research Programme](https://www.iiserkol.ac.in/~summer.research/) | IISERK | Keep checking | 6th May | Keep checking | Try to apply |
 | 19. | [Internship @ CMI](https://www.cmi.ac.in/admissions/internships.php/) | CMI | - Typically, CMI does not offer internships to students before the end of their second year of college/university. | Keep checking | Keep checking | Try to apply |
