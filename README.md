@@ -41,7 +41,8 @@
 | 37. | [Summer @ IIT Palakkad](https://sun.iitpkd.ac.in/) | IIT Palakkad | The programme is open to postgraduate students (including 4th and 5th year students of integrated master’s programs) and those who are in the 3rd and 4th year of their B.Tech degree. | 10th April | Keep checking | Apply next year |
 | 38. | [Summer Internship](https://onlineportal.iitrpr.ac.in/summer-internship-2022/) | IIT Ropar | The programme is open to postgraduate students (including 4th and 5th year students of integrated master’s programs) and those who are in the 3rd and 4th year of their B.Tech degree. | 18th july | - Self Attested copies of Transcripts, Resume, Bonafide certificate, Identity card </br> - Contact supervisors on your own| Apply next year |
 | 39. | [Undergraduate Summer Research Fellowship Programme](https://home.iitd.ac.in/show.php?id=160&in_sections=News/) | IIT Delhi | Any undergraduate student, except student of IITs, who has completed at least 2 years of study towards an engineering degree and is amongst top ten positions in her/his respective programme will be eligible to apply for this fellowship. | 29th March | Keep checking | Apply next year |
-| 40. | [Internship at Quansight](https://www.quansight.com/careers/) | Quansight | NA | Keep checking | - CV, cover letter | Applied |
+| 40. | [Internship at Quansight](https://www.quansight.com/careers/) | Quansight | NA | Keep checking | - CV, cover letter | - Applied <br> - Invited for first interview <br> - Rejected |
+| 41. | [Open Life Science program](https://openlifesci.org/ols-6/) | Open Life Science | NA | Keep checking | - A project idea or open-source contributions to scientific projects | - Apply next year |
 
 # Conferences
 | Serial Number | Name | Language/Framework | Proposal deadline | Applying status |
