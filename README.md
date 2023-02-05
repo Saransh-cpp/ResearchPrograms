@@ -48,6 +48,7 @@
 | 44. | [Quantum Computing School Fellowship](https://www.lanl.gov/projects/national-security-education-center/information-science-technology/summer-schools/quantumcomputing/index.php) | Los Alamos National Laboratory | Keep Checking | 22nd January | Keep Checking | Skipped | Skip |
 | 45. | [Aalto Science Institute international summer research programme](https://www.aalto.fi/en/aalto-science-institute-asci/aalto-science-institute-international-summer-research-programme) | Aalto Science Institute (AScI) | Keep Checking | 31st January | Keep Checking | Skipped | Skip |
 | 46. | [CERN Summer Student Programs](https://careers.cern/summer) | CERN | Keep Checking | 31st January | CV, LORs (2 or 1), motivation (not SOP, but answer on the portal), etc. | Skipped | Skip with a heavy heart |
+| 47. | [UIUC+ Summer Undergraduate Research in Software Engineering](https://docs.google.com/forms/d/1btIwt4HwjyKMOUk-EMy3rbkfWzFxv2lNrMm_zkd0pA4/viewform?edit_requested=true) | Remote | Keep Checking | 1st March | Check form | Skipped | Skip with a heavy heart |
 
 
 <!-- # Conferences
