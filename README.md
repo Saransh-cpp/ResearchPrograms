@@ -52,6 +52,7 @@
 | 48. | [Fatima Fellowship](https://www.fatimafellowship.com) | Remote | N/A | Keep Checking | Keep Checking | Skipped | Skip with a heavy heart |
 | 49. | [XR Open Source Fellowship Program](https://xrosfellowship.ficci.in) | FICCI, Meta | N/A | Keep Checking | Keep Checking | Did not exist | Skip |
 | 50. | [Summer Research Internship](https://aimi.stanford.edu/engage/summer-research-internship) | Stanford Center for Artificial Intelligence in Medicine and Imaging (AIMI) | Keep Checking | Keep Checking | Keep Checking | Did not exist | Skip with a heavy heart |
+| 51. | [Undergraduate Research Internship Program](https://mbzuai.ac.ae/ugrip/?utm_source=google&utm_medium=cpc&utm_campaign=ugrip&gclid=Cj0KCQjw0tKiBhC6ARIsAAOXutmZzPxN06S3t_niMLrea5jqkjxlKOdsFjUw1Z37tnKpabH8yJ2gZwQaAvzcEALw_wcB) | Mohamed bin Zayed University of Artificial Intelligence | - 3rd/4th year <br> - CGPA 3.5/4 | Keep Checking | - SOP, TOEFL/IELTS, Transcripts, CV | Did not exist | Found out after the results were declared |
 
 
 <!-- # Conferences
