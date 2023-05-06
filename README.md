@@ -1,7 +1,7 @@
 # ResearchPrograms
 
-| Serial Number | Name | Institute | Eligibility | Deadline | Documents | Applying status 2021 | Applying status 2022 |
-| ------------- |----- | --------- | ----------- | -------- | --------- | -------------------- | -------------------- |
+| Serial Number | Name | Institute | Eligibility | Deadline | Documents | Applying status 2021-22 | Applying status 2022-23 | Applying status 2023-24 |
+| ------------- |----- | --------- | ----------- | -------- | --------- | ----------------------- | ----------------------- | -------------------------- |
 | 1. | [Summer Student Research Fellowship](https://inf.ethz.ch/studies/summer-research-fellowship.html) | ETH Zurich | - Your expected graduation date in your current study programme (bachelor or master) is in the year following the fellowship or later. <br> - You will have completed two years of study by start of the programme (master students naturally satisfy this condition). | 15th December | - Does not require LOR. <br> - Requires official academic transcript, Letter of Motivation and CV. | - Applied <br> - Rejected | Skip |
 | 2. | [Santa Fe Institute Summer Research Experience](https://www.santafe.edu/engage/learn/programs/undergraduate-complexity-research) | Santa Fe Institute, New Mexico | - College seniors graduating before December 2022 are not eligible. | 11th January | - Requires one LOR. <br> - Requires official academic transcript, Research statement and CV. | - Applied <br> - Rejected | Skip |
 | 3. | [Summer at EFPL](https://summer.epfl.ch/) | EFPL | - At the time of application, applicants must be enrolled in the 2nd year Bachelor or above (therefore, all applicants must have successfully completed at least their 1st year of the Bachelor's programme). | 1st December | - Does not require LOR. <br> - Requires official academic transcript, Letter of Motivation and CV. | Missed, apply next year | Skip |
@@ -53,6 +53,8 @@
 | 49. | [XR Open Source Fellowship Program](https://xrosfellowship.ficci.in) | FICCI, Meta | N/A | Keep Checking | Keep Checking | Did not exist | Skip |
 | 50. | [Summer Research Internship](https://aimi.stanford.edu/engage/summer-research-internship) | Stanford Center for Artificial Intelligence in Medicine and Imaging (AIMI) | Keep Checking | Keep Checking | Keep Checking | Did not exist | Skip with a heavy heart |
 | 51. | [Undergraduate Research Internship Program](https://mbzuai.ac.ae/ugrip/?utm_source=google&utm_medium=cpc&utm_campaign=ugrip&gclid=Cj0KCQjw0tKiBhC6ARIsAAOXutmZzPxN06S3t_niMLrea5jqkjxlKOdsFjUw1Z37tnKpabH8yJ2gZwQaAvzcEALw_wcB) | Mohamed bin Zayed University of Artificial Intelligence | - 3rd/4th year <br> - CGPA 3.5/4 | Keep Checking | - SOP, TOEFL/IELTS, Transcripts, CV | Did not exist | Found out after the results were declared |
+| 52. | [CERN technical student program](https://careers.smartrecruiters.com/CERN/tech) | CERN | Check link | 3 times a year | Check link | Apply next year | Skipped as reequires min 4 months | APPLY BEFORE THE DEADLINE |
+| 53. | [Summer Research Fellowship Program](https://webjapps.ias.ac.in/fellowship2023/) | Indian Academy of Sciences | Keep Checkoing | 22nd November | Keep Checking | Did not exist | Found out after the results were declared |
 
 
 <!-- # Conferences
