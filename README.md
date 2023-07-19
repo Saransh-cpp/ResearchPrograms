@@ -47,16 +47,17 @@
 | 43. | [Space Astronomy Summer Program](https://www.stsci.edu/opportunities/space-astronomy-summer-program) | Space Telescope Science Institute | Keep Checking | 31st January | Keep Checking | Skipped | Skip |
 | 44. | [Quantum Computing School Fellowship](https://www.lanl.gov/projects/national-security-education-center/information-science-technology/summer-schools/quantumcomputing/index.php) | Los Alamos National Laboratory | Keep Checking | 22nd January | Keep Checking | Skipped | Skip |
 | 45. | [Aalto Science Institute international summer research programme](https://www.aalto.fi/en/aalto-science-institute-asci/aalto-science-institute-international-summer-research-programme) | Aalto Science Institute (AScI) | Keep Checking | 31st January | Keep Checking | Skipped | Skip |
-| 46. | [CERN Summer Student Programs](https://careers.cern/summer) | CERN | Keep Checking | 31st January | CV, LORs (2 or 1), motivation (not SOP, but answer on the portal), etc. | Skipped | Skip with a heavy heart |
+| 46. | [CERN Summer Student Programs](https://careers.cern/summer) | CERN | Keep Checking | 31st January | CV, LORs (2 or 1), motivation (not SOP, but answer on the portal), etc. | Skipped | Skip with a heavy heart | APPLY |
 | 47. | [UIUC+ Summer Undergraduate Research in Software Engineering](https://docs.google.com/forms/d/1btIwt4HwjyKMOUk-EMy3rbkfWzFxv2lNrMm_zkd0pA4/viewform?edit_requested=true) | Remote | N/A | 1st March | Check form | Skipped | Got in via cold mail, did not join |
 | 48. | [Fatima Fellowship](https://www.fatimafellowship.com) | Remote | N/A | Keep Checking | Keep Checking | Skipped | Skip with a heavy heart |
 | 49. | [XR Open Source Fellowship Program](https://xrosfellowship.ficci.in) | FICCI, Meta | N/A | Keep Checking | Keep Checking | Did not exist | Skip |
 | 50. | [Summer Research Internship](https://aimi.stanford.edu/engage/summer-research-internship) | Stanford Center for Artificial Intelligence in Medicine and Imaging (AIMI) | Keep Checking | Keep Checking | Keep Checking | Did not exist | Skip with a heavy heart |
 | 51. | [Undergraduate Research Internship Program](https://mbzuai.ac.ae/ugrip/?utm_source=google&utm_medium=cpc&utm_campaign=ugrip&gclid=Cj0KCQjw0tKiBhC6ARIsAAOXutmZzPxN06S3t_niMLrea5jqkjxlKOdsFjUw1Z37tnKpabH8yJ2gZwQaAvzcEALw_wcB) | Mohamed bin Zayed University of Artificial Intelligence | - 3rd/4th year <br> - CGPA 3.5/4 | Keep Checking | - SOP, TOEFL/IELTS, Transcripts, CV | Did not exist | Found out after the results were declared |
-| 52. | [CERN technical student program](https://careers.smartrecruiters.com/CERN/tech) | CERN | Check link | 3 times a year | Check link | Apply next year | Skipped as requires min 4 months | APPLY BEFORE THE DEADLINE |
+| 52. | [CERN technical student program](https://careers.smartrecruiters.com/CERN/tech) | CERN | Check link | 3 times a year | Check link | Apply next year | Skipped as requires min 4 months | Applied |
 | 53. | [Summer Research Fellowship Program](https://webjapps.ias.ac.in/fellowship2023/) | Indian Academy of Sciences | Keep Checking | 22nd November | Keep Checking | Did not exist | Found out after the results were declared |
 | 54. | [Scientific internship](https://phd.pages.ist.ac.at/scientific-internships/) | IST, Austria | Keep Checking | None | Keep Checking | Skipped | Skipped | APPLY |
 | 55. | [Thesis writing thing](https://phd.pages.ist.ac.at/bsc-msc-research-projects/) | IST, Austria | Keep Checking | None | Keep Checking | Skipped | Skipped | APPLY |
+| 56. | [Microsoft Research Internship](https://jobs.careers.microsoft.com/global/en/job/1582723/Research-Intern) | Bangalore | End of third year or recent graduate | Keep checking | - Cover letter, CV | Apply in the final year | Apply in the final year | APPLY |
 
 <!-- # Conferences
 | Serial Number | Name | Language/Framework | Proposal deadline | Applying status |
