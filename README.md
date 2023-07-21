@@ -58,6 +58,7 @@
 | 54. | [Scientific internship](https://phd.pages.ist.ac.at/scientific-internships/) | IST, Austria | Keep Checking | None | Keep Checking | Skipped | Skipped | APPLY |
 | 55. | [Thesis writing thing](https://phd.pages.ist.ac.at/bsc-msc-research-projects/) | IST, Austria | Keep Checking | None | Keep Checking | Skipped | Skipped | APPLY |
 | 56. | [Microsoft Research Internship](https://jobs.careers.microsoft.com/global/en/job/1582723/Research-Intern) | Bangalore | End of third year or recent graduate | Keep checking | - Cover letter, CV | Apply in the final year | Apply in the final year | Applied |
+| 57. | [Narendra Summer Internship](https://www.csa.iisc.ac.in/event/narendra-summer-internship/) | IISc | None | May 10th | - SOP, LOR, CV | Not open | Skipped | Not open |
 
 <!-- # Conferences
 | Serial Number | Name | Language/Framework | Proposal deadline | Applying status |
