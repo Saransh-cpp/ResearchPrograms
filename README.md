@@ -59,6 +59,7 @@
 | 55. | [Thesis writing thing](https://phd.pages.ist.ac.at/bsc-msc-research-projects/) | IST, Austria | Keep Checking | None | Keep Checking | Skipped | Skipped | APPLY |
 | 56. | [Microsoft Research Internship](https://jobs.careers.microsoft.com/global/en/job/1582723/Research-Intern) | Bangalore | End of third year or recent graduate | Keep checking | - Cover letter, CV | Apply in the final year | Apply in the final year | - Applied <br> - Received automated rejection |
 | 57. | [Narendra Summer Internship](https://www.csa.iisc.ac.in/event/narendra-summer-internship/) | IISc | None | May 10th | - SOP, LOR, CV | Not open | Skipped | Not open |
+| 58. | [SINGAPORE INTERNATIONAL PRE-GRADUATE AWARD (SIPGA)](https://www.a-star.edu.sg/Scholarships/for-undergraduate-studies/singapore-international-pre-graduate-award-sipga/) | Agence for Science, Technology, and Research, Singapore | Open to international 3rd and 4th-year undergraduate and master’s students from overseas universities in STEM courses <br> - Obtained/on track to obtain at least a Second-Class (Upper) Honours or equivalent for bachelor’s degree <br> - Students must remain matriculated in their home university during the attachment period <br> - Proficient in written and spoken English <br> - Strong interest in a research career | 15th October, February, June | - Transcripts, **Passport**, CV | Did not know existed | Did not know existed | Skip |
 
 <!-- # Conferences
 | Serial Number | Name | Language/Framework | Proposal deadline | Applying status |
